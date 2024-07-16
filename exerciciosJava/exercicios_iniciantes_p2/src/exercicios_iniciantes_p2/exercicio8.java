@@ -35,6 +35,7 @@ public class exercicio8 {
 			System.out.printf("R$ %.2f", imposto);			
 		}
 		
+		sc.close();
 	}
 
 }
